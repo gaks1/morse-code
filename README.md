@@ -97,7 +97,7 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤  **Isaac Gakure Wanyoike
+👤  **Isaac Gakure Wanyoike**
 
  - GitHub: [@githubhandle](https://github.com/gaks1)
  - Twitter: [@twitterhandle](https://twitter.com/bopplov)
